@@ -1,5 +1,0 @@
-.no-scrollbar{
-    scrollbar-width: none; /* Firefox */
-    -ms-overflow-style: none; /* Internet Explorer 10+ and Edge */
-    overflow-x: hidden;
-  }
